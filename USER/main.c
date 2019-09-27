@@ -28,6 +28,7 @@
 		LED1=0;
 		delay_ms(300);	//—” ±300ms
 		delay_ms(300);	//—” ±300ms
+				delay_ms(300);	//—” ±300ms
 	}
  }
 
